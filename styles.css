@@ -1,5 +1,5 @@
 body {
-    background: gray;
+    background: #BDBDBD;
     margin: 0;
 }
 
@@ -13,5 +13,14 @@ header h1 {
 
 div.post {
     background: white;
+}
+
+div.post img {
+    width: 100%;
+}
+
+div.container {
+    width: 600px;
+    margin: auto;
 }
 
